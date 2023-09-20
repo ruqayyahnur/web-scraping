@@ -10,8 +10,8 @@ There are two parts:
 - Deliverable 2: Scrape and analyze Mars weather data. This can be found in the table
 
 # Part 1: Scrape Titles and Preview Text from Mars News
-- Start by Visiting the MArs news site and inspect teh page to identify wchich elements will need to be scarped. *try using the Chrome DevTools*
-- Create a *BeautifulSoup object* to use to extract text elements from the website
+- Start by visiting the Mars news site and inspect the page to identify which elements will need to be scarped. *try using the Chrome DevTools*
+- Create a *BeautifulSoup object* to extract text elements from the website
 - Extract the titles and preview text of the news articles that you scraped.
 
 # Part 2: Scrape and Analyze Mars Weather Data
